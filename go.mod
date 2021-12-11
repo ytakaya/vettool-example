@@ -1,4 +1,4 @@
-module github.com/ytakaya/vettool
+module github.com/ytakaya/vettool-example
 
 go 1.17
 
